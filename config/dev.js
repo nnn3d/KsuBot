@@ -29,5 +29,6 @@ module.exports = {
         new (require('../modules/CommandList')),
         new (require('../modules/Info')),
         new (require('../modules/SandBoxKsu')),
+        new (require('../modules/UserProfile')),
     ]
 };
